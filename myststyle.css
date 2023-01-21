@@ -1,0 +1,72 @@
+div {
+display: flex;
+justify-content: center;
+}
+#bo {
+    color: aliceblue;
+    background-color: red;
+}
+.container {
+    display: inline;
+    }
+    
+    #btn-get {
+        position: absolute;
+        top: 80px;
+        left: 500px;
+    }
+
+    #btn-set {
+        position: absolute;
+        top: 30px;
+        left: 500px;
+    }
+
+    input, button {
+        height: 25px;
+    }
+    
+    #result {
+        font-size: 25px;
+        font-weight: bold;
+    }
+ 
+#textbox {
+    background-color: red;
+    padding: 100px 330px;
+margin: 5px;
+color: black;
+border-radius: 5px;
+}
+
+button {
+padding: 10px 20px;
+margin: 5px;
+background-color: red;
+color: red;
+border-radius: 5px;
+}
+#boxxx {
+color: black;
+background-color: #a00000;
+font-size: larger;
+}
+#boxx {
+    color: black;
+    background-color: #a00000;
+    }
+    
+#boom {
+ color: black;
+ background-color: #a00000;
+}    
+#bam {
+    color: rgb(241, 234, 234);
+    background-color: #180000;
+    position:fixed (-ms-page)
+   }
+   #boxxxx {
+    color: black;
+    background-color: #a00000;
+    font-size: larger;
+    }
